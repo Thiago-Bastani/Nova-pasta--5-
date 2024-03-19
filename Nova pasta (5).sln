@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nova pasta (5)", "Nova pasta (5).csproj", "{76D355D6-608D-497F-9B25-E210AFBD682C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D355D6-608D-497F-9B25-E210AFBD682C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D355D6-608D-497F-9B25-E210AFBD682C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D355D6-608D-497F-9B25-E210AFBD682C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D355D6-608D-497F-9B25-E210AFBD682C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F753990-2442-49E9-B565-07B4A76CC5AB}
+	EndGlobalSection
+EndGlobal
